@@ -1,0 +1,7 @@
+{
+  "name": "Tenderdesk - Tender Document Package Builder",
+  "description": "Check tender requirements and assemble a complete PDF package. Your documents stay in your browser.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
